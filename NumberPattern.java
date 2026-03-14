@@ -14,4 +14,5 @@ public class NumberPattern {
                 System.out.println();
             }
     }
+
 }
